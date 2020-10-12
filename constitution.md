@@ -166,11 +166,11 @@ UL C&S is the parent organisation of the Society. All rules and regulations made
 
 The governing body of the society is the Board of Irish College Societies (BICS).
 
-## 2.4 Skynet
+### 2.5 Skynet
 
 Skynet is a child organisation of the Society. Skynet may layout its own rules and regulations but must still comply with all of the society’s rules and regulations. It is necessary to be a member of the society to be a member of Skynet. Skynet as an entity is discussed further in section 10.
 
-### 2.5 Aims & Objectives
+### 2.6 Aims & Objectives
 
 To promote the use and enjoyment of computers and technology within the University, by all students including those for whom it is not an academic requirement. To lower the bar of entry into the world of computing. To create a social space and channels for technology enthusiasts.
 
@@ -351,15 +351,14 @@ Some suggested officer positions are:
 
 - First Year Representative
 
-### 4.1.8 Advisors
+#### 4.1.8 Advisors
 Advisors are previous committee members or other society members that have knowledge of the society. Advisors aim to help the committee accomplish their goals and pass on knowledge. Advisors shall not have a vote on the committee.
 
 
 ### 4.2 Election of Officers
 
 Subject to section 4.5, officers shall be elected at the relevant AGM
-(Annual General Meeting) in accordance with the provisions of section
-5.2
+(Annual General Meeting) in accordance with the provisions of section 5.2
 
 ### 4.3 Resignation of Officers
 
@@ -429,7 +428,7 @@ Committee.
 #### 5.2.1
 
 Voting shall be by show of hands unless otherwise determined in a vote
-of the **meeting**.
+of the meeting.
 
 **5.2.2**
 
@@ -456,14 +455,14 @@ ineligible for any other reason).
 
 #### 5.2.6
 
-In the event of an equality of votes, the Chairperson shall have a
+In the event of an equality of votes, the President shall have a
 second casting vote in addition to the vote to which he or she may in
 any case be entitled.
 
 #### 5.2.7
 
-In the event of a conflict of interest for the Chairperson, they must
-vacate the Chair and another Chairperson must be appointed by a vote of
+In the event of a conflict of interest for the President, they must
+vacate the Chair and another President must be appointed by a vote of
 the members present for the duration that the conflict persists.
 
 #### 5.2.8
