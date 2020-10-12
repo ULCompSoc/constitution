@@ -158,15 +158,24 @@ Society.
 The Society does not affiliate with any national or international
 organisation.
 
-### 2.3 Aims & Objectives
+### 2.3 Parent Organisation
 
-To promote the use and enjoyment of computers within the University, by
-all students including those for whom it is not an academic requirement.
+UL C&S is the parent organisation of the Society. All rules and regulations made by UL C&S supersedes the society’s rules.
 
-To this end we shall employ the use of the computing skills, knowledge
-and resources of the society, computer based information services,
-combining both the practical and the entertaining, to bring computers to
-the masses.
+### 2.4 Governing Body
+
+The governing body of the society is the Board of Irish College Societies (BICS).
+
+## 2.4 Skynet
+
+Skynet is a child organisation of the Society. Skynet may layout its own rules and regulations but must still comply with all of the society’s rules and regulations. It is necessary to be a member of the society to be a member of Skynet. Skynet as an entity is discussed further in section 10.
+
+### 2.5 Aims & Objectives
+
+To promote the use and enjoyment of computers and technology within the University, by all students including those for whom it is not an academic requirement. To lower the bar of entry into the world of computing. To create a social space and channels for technology enthusiasts.
+
+To this end we shall employ the use of the computing skills, knowledge and resources of the society, computer-based information services, combining both the practical and the entertaining, to bring technology to the masses.
+
 
 3 Membership
 ============
@@ -174,12 +183,10 @@ the masses.
 ### 3.1 Types of Membership
 
 The membership of the Society shall consist of Full Members, Associate
-Members and Honorary Members who have paid their Membership Fee.
+Members, Multi-year members and Honorary Members who have paid their Membership Fee.
 
 Current students should account for at least 75% of the listed
-membership of the
-
-Society.
+membership of the Society.
 
 #### 3.1.1 Full Members
 
@@ -191,16 +198,11 @@ Constitution means pursuing any degree (undergraduate or postgraduate),
 full-time or part-time and includes time spent on teaching practice,
 co-operative education, Erasmus and link-in modules.
 
-**3.1.1.2** Students of Mary Immaculate College, Limerick are not
-eligible to be Full Members of the Society.
-
-**3.1.1.3** Anyone who is a Full Member of the Society shall be entitled
+**3.1.1.2** Anyone who is a Full Member of the Society shall be entitled
 to be nominated to any position on the Committee or to any other
-committee of the
+committee of the Society. However, it is generally recommended that an experienced member of the society shall take on Core Committee Positions for the preservation of institutional knowledge.
 
-Society.
-
-**3.1.1.4** Full Members and Full Members only, shall have voting rights
+**3.1.1.3** Full Members and Full Members only, shall have voting rights
 at any general meeting of the Society.
 
 #### 3.1.2 Associate Members
@@ -231,33 +233,30 @@ case they shall have the same rights as a Full Member.
 **3.1.3.3** Notwithstanding clause 3.2.1 below, Honorary Members shall
 be exempt from paying any Membership Fee.
 
+### 3.1.4 Multi-year members
+
+Multi-year members are members that may join the society and pay a set fee for a number of years. Multi-year members are alumni of the society that wish to keep their Skynet account. Multi-year members do not have the same priveledges as full members in that they may not attend Computer Society trips and may not vote at General Meetings.
+
 ### 3.2 Membership Fees and Term
 
 #### 3.2.1
 
-Every member of the Society must pay an annual membership fee in order
-to be eligible to be a current member of the Society, as well as
-completing the form in the membership books or Electronic Membership
-form.
+Every member of the Society must pay an annual membership fee in order to be eligible to be a current member of the Society, as well as registering on wolves.ie.
 
 #### 3.2.2
 
-There are three categories of Membership Fees as follows:
+There are four categories of Membership Fees as follows:
 
-> 1\. **Student** 1 x € (base amount)
+ > 1\. **Student** 5€
 
-#### 2. Alumni and Staff of UL 2 x € (base amount)
+> 2\. **Alumni and Staff of UL** 10 €
 
-> 3\. **Associates** 3 x € (base amount)
+> 3\. **Associates** 30 € 
+
+> 4\. **Multi-year Members** 40 € (for 5 years)
+
 
 ##### 3.2.3
-
-The base amount shall be determined by the Society Committee annually,
-taking into consideration the University's Student Capitation. The base
-amount is at the discretion of the Society Committee and shall be
-allocated annually.
-
-##### 3.2.4
 
 The term of membership shall be from the date that the member signs the
 membership book or completes the electronic form until the Monday of
@@ -281,7 +280,7 @@ Society.
 
 The Committee shall be composed of the following officers:
 
-1.  Chairperson
+1.  President
 
 2.  Secretary
 
@@ -295,14 +294,14 @@ The Committee shall be composed of the following officers:
 
 7.  Other Officers
 
-of whom the Chairperson, the Secretary and the Treasurer are Core
-Committee Positions and two of the officers holding a Core Committee
-Position shall be the Society's representatives on the Clubs' and
-Societies' Council ("**CSC**").
+8. Advisors
 
-**4.1.1 The Chairperson**
+of whom the President, the Secretary and the Treasurer are Core
+Committee Positions.
 
-The Chairperson's duties shall include the day-to-day management of the
+**4.1.1 The President**
+
+The President's duties shall include the day-to-day management of the
 Society.
 
 #### 4.1.2 The Secretary
@@ -311,7 +310,7 @@ The Secretary's duties shall include the maintenance of all necessary
 documentation including the Minutes of all general meetings and
 committee meetings, and will be responsible for the Handover Documents
 for the incoming Committee. The Secretary shall be responsible for
-routine communications within the Committee and the Society.
+routine communications within the Committee.
 
 #### 4.1.3 The Treasurer
 
@@ -327,16 +326,7 @@ Statement.
 
 #### 4.1.5 The Public Relations Officers
 
-There shall be two Public Relations Officers (PRO). One shall be tasked
-primarily with PR roles to students in computing and related courses
-while the second shall be responsible for general PR. The PROs shall be
-responsible for the advertising and organising of all events and
-functions of the society through all means possible. The publicising of
-events shall be aimed at the university community as well as the wider
-community. It is incumbent upon the PROs to report to the Students'
-Union newspaper, to local and, where appropriate, national press. The
-office of PRO shall have the responsibility of organising all receptions
-held by the society, aided where necessary by other committee members.
+There shall be one or two Public Relations Officers (PRO), at the discretion of the current committee. The PROs shall be responsible for the advertising and promotion of the society. The publicising of events shall be aimed at the university community as well as the wider community. It is incumbent upon the PROs to report to the UL media and newspapers, to local and, where appropriate, national press. The PROs are responsible for the creation of content for and managing our social media accounts and communication to our members.
 
 #### 4.1.6 The Senior Systems' Administrator
 
@@ -349,10 +339,21 @@ be an existing member of the Systems' Administration Team.
 
 #### 4.1.7 Other Officers
 
-The Society may appoint other officers at the discretion of the
-Committee. Any such additional officers are not permanent officials of
-the Committee and need not be appointed every year, nor replaced if the
-position should become vacant for any reason.
+The Society may appoint other officers at the discretion of the Committee. Any such additional officers are not permanent officials of the Committee and need not be appointed every year, nor replaced if the position should become vacant for any reason. It is the duty of the committee to appoint and resign officers but may take it to a vote at a general meeting under section 4.2. 
+
+Some suggested officer positions are:
+
+- Events Officer
+
+- Equipment Officer
+
+- Programming and Technology Officer
+
+- First Year Representative
+
+### 4.1.8 Advisors
+Advisors are previous committee members or other society members that have knowledge of the society. Advisors aim to help the committee accomplish their goals and pass on knowledge. Advisors shall not have a vote on the committee.
+
 
 ### 4.2 Election of Officers
 
@@ -388,11 +389,7 @@ when their function is complete, whichever is the sooner.
 
 ### 4.7 Handover Documents
 
-Each outgoing officer of the Committee must present Handover Documents
-at the end of their term detailing the specific roles and
-responsibilities and the person(s) with whom they conducted the business
-of the Society in order to assist the incoming officers with their
-development of the Society.
+Each officer of the Committee must present Handover Documents at the end of the academic year detailing the specific roles and responsibilities and the person(s) with whom they conducted the business of the Society in order to assist the incoming officers with their development of the Society.
 
 5 Meetings
 ==========
@@ -410,8 +407,7 @@ the general meeting.
 
 #### 5.1.2
 
-Members shall be notified of general meetings in writing through at
-least two media (text, email, and/or posters).
+Members shall be notified of general meetings in writing through at least two media (text/email/posters/social-media/other reasonable form of communication).
 
 #### 5.1.3
 
@@ -421,12 +417,7 @@ meeting.
 
 #### 5.1.4
 
-An EGM must be convened at the request of fifteen (15) or more Full
-Members in writing to the Chairperson clearly stating the purpose for
-that meeting. The EGM will be held no later than fourteen (14) days of
-receipt of the written request. The Clubs and Societies Executive (CSE)
-must also be made aware of this request by a member of the Core
-Committee.
+An EGM must be convened at the request of fifteen (15) or more Full Members in writing to the Chairperson clearly stating the purpose for that meeting. The EGM will be held no later than fourteen (14) days of receipt of the written request. The Clubs and Societies Executive (CSE) must also be made aware of this request by a member of the Core Committee. The committee may also be called as a result of a committee vote.
 
 #### 5.1.5
 
@@ -545,36 +536,28 @@ general meeting and per event/trip briefing.
 
 #### 6.3.1
 
-If any member intends to make a foreign trip on Society business, they
-[must]{.ul} inform the Clubs and Societies Development Officer (CSDO).
+If any member intends to make a foreign trip on Society business, they must inform the Clubs and Societies Office.
 
 #### 6.3.2
 
-An itinerary must be furnished to \[the parties in 6.3.1\] in advance of
-all trips outside of the island of Ireland. The itinerary must include:
+An itinerary must be furnished to [the parties in 6.3.1] in advance of all trips outside of the island of Ireland. The itinerary must include: 
 
-1.  Flight/Ferry information, and accommodation phone numbers and a
-    dailyschedule of the planned activities.
+1. Flight/Ferry information, and accommodation phone numbers and a daily schedule of the planned activities. 
 
-2.  The contact details of the event coordinators while abroad and the
-    person/people designated to be responsible for First Aid (where
-    possible).
+2. The contact details of the event coordinators while abroad and the person/people designated to be responsible for First Aid (where possible). 
 
-3.  In Case of Emergency (ICE) contact details must be provided by every
-    participant to the event coordinators, and provided to the CSDO at
-    least a week in advance of the planned trip.
+3. In Case of Emergency (ICE) contact details must be provided by every participant to the event coordinators, and provided to the C&S Office at least a week in advance of the planned trip.
+
+4. Any other information requested by the C&S office.
+
 
 #### 6.3.3
 
-The member [must]{.ul} take the Clubs and Societies Travel Insurance
-Policy Number on any trip, which is available from the CSDO or ULSU
-Secretary General in advance of the trip.
+The member must take the Clubs and Societies Travel Insurance Policy Number on any trip, which is available from the C&S Office in advance of the trip.
 
 #### 6.3.4
 
-In accordance with the Health & Safety Statement, the contact details
-for the Clubs and Societies Development Officer, General Manager and the
-ULSU President must be provided to the event coordinators.
+In accordance with the Health & Safety Statement, the contact details for the Clubs and Societies Office must be provided to the event coordinators.
 
 7 Disciplinary Action
 =====================
@@ -590,10 +573,7 @@ disciplinary, grievance, bullying and harassment procedures of the Clubs
 
 #### 8.1.1
 
-All funds raised by the Society must be used for the express purpose of
-the promotion and development of Clubs & Societies activities under the
-auspices of the Students' Union except in the case of funds raised by a
-charity event.
+All funds raised by the Society must be used for the express purpose of the promotion and development of Clubs & Societies activities under the auspices of the UL Student Life except in the case of funds raised by a charity event.
 
 #### 8.1.2
 
@@ -658,9 +638,14 @@ equipment.
 #### 9.1.6
 
 The CSE shall be the arbitrators of all aspects of the Clubs & Societies
-Equipment
+Equipment Policy.
 
-Policy.
+### 9.1.7 
+The society may loan equipment to trusted members of the society if it is thought to be useful to development of the society, at the discretion of the current committee. A record of any loans must be kept by the committee and at least two members of the core committee must be aware of the loan.
+
+### 9.1.8 
+The society may loan equipment to other UL Clubs/Societies if it is deemed useful to the development of the Club/Society.  A record of any loans must be kept by the committee and at least two members of the core committee must be aware of the loan.
+
 
 10 Computing Cluster
 ====================
@@ -771,6 +756,10 @@ The Committee shall make copies of these documents available on request.
 The Society shall comply with the Clubs and Societies Executive Club and
 Society Protocol in Legal Proceedings, a copy of which is attached as a
 schedule to this Constitution.
+
+### 11.1 Data Privacy
+The Committee shall do the utmost to comply with the General Data Protection Regulation and any other relevant data privacy regulations. Data protection of our members is of extreme importance to the society. The society aims to protect any personal data held on the Skynet cluster or elsewhere in the society’s possession.
+
 
 12 Interpretation
 =================
